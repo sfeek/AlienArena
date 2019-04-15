@@ -1,0 +1,10 @@
+C:\SourceCode\SpriteTest\SpriteTest\bin\Debug\SpriteTest.exe.config
+C:\SourceCode\SpriteTest\SpriteTest\bin\Debug\SpriteTest.exe
+C:\SourceCode\SpriteTest\SpriteTest\bin\Debug\SpriteTest.pdb
+C:\SourceCode\SpriteTest\SpriteTest\obj\Debug\SpriteTest.Properties.Resources.resources
+C:\SourceCode\SpriteTest\SpriteTest\obj\Debug\SpriteTest.spritetest.resources
+C:\SourceCode\SpriteTest\SpriteTest\obj\Debug\SpriteTest.csproj.GenerateResource.cache
+C:\SourceCode\SpriteTest\SpriteTest\obj\Debug\SpriteTest.csproj.CoreCompileInputs.cache
+C:\SourceCode\SpriteTest\SpriteTest\obj\Debug\SpriteTest.exe
+C:\SourceCode\SpriteTest\SpriteTest\obj\Debug\SpriteTest.pdb
+C:\SourceCode\SpriteTest\SpriteTest\obj\Debug\SpriteTest.csprojAssemblyReference.cache

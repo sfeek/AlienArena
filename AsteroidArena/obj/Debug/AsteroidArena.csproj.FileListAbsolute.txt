@@ -1,0 +1,9 @@
+C:\SourceCode\Asteroid Arena\SpriteTest\bin\Debug\SpriteTest.exe.config
+C:\SourceCode\Asteroid Arena\SpriteTest\bin\Debug\SpriteTest.exe
+C:\SourceCode\Asteroid Arena\SpriteTest\bin\Debug\SpriteTest.pdb
+C:\SourceCode\Asteroid Arena\SpriteTest\obj\Debug\SpriteTest.Properties.Resources.resources
+C:\SourceCode\Asteroid Arena\SpriteTest\obj\Debug\AsteroidArena.asteroidarena.resources
+C:\SourceCode\Asteroid Arena\SpriteTest\obj\Debug\AsteroidArena.csproj.GenerateResource.cache
+C:\SourceCode\Asteroid Arena\SpriteTest\obj\Debug\AsteroidArena.csproj.CoreCompileInputs.cache
+C:\SourceCode\Asteroid Arena\SpriteTest\obj\Debug\SpriteTest.exe
+C:\SourceCode\Asteroid Arena\SpriteTest\obj\Debug\SpriteTest.pdb
