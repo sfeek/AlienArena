@@ -22,3 +22,33 @@ C:\SourceCode\Asteroid Arena\AsteroidArena\obj\Release\AsteroidArena.application
 C:\SourceCode\Asteroid Arena\AsteroidArena\obj\Release\AsteroidArena.exe
 C:\SourceCode\Asteroid Arena\AsteroidArena\obj\Release\AsteroidArena.pdb
 C:\SourceCode\Asteroid Arena\AsteroidArena\obj\Release\AsteroidArena.csprojAssemblyReference.cache
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Graphics\brown_asteroid_small.png
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Graphics\collisionmask.png
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Graphics\copper_asteroid_medium.png
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Graphics\explosion.png
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Sounds\8bit_explosion.wav
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Sounds\asteroidriff.wav
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Sounds\shiplaser1.wav
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Graphics\grey_asteroid_large.png
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Graphics\laserbeam.png
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Graphics\nebula.png
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Graphics\nebulastartscreen.png
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Sounds\shiplaser2.wav
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Graphics\spaceship1.png
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Graphics\spaceship2.png
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\Sounds\thruster.wav
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\LICENSE
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\AsteroidArena.exe.config
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\AsteroidArena.exe.manifest
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\AsteroidArena.application
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\AsteroidArena.exe
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\bin\Release\AsteroidArena.pdb
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\obj\Release\AsteroidArena.csprojAssemblyReference.cache
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\obj\Release\AsteroidArena.Properties.Resources.resources
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\obj\Release\AsteroidArena.asteroidarena.resources
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\obj\Release\AsteroidArena.csproj.GenerateResource.cache
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\obj\Release\AsteroidArena.csproj.CoreCompileInputs.cache
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\obj\Release\AsteroidArena.exe.manifest
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\obj\Release\AsteroidArena.application
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\obj\Release\AsteroidArena.exe
+C:\SourceCode\AsteroidArena-master\AsteroidArena-master\AsteroidArena\obj\Release\AsteroidArena.pdb

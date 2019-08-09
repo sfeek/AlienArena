@@ -53,7 +53,7 @@ namespace AsteroidArena
         public asteroidarena()
         {
             InitializeComponent(); // Initialize form
-
+            
             spc = new SpriteController(); // Initialize Sprite Controller
             sndc = new SoundController(); // Initialize Sound Controller
 

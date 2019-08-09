@@ -26,7 +26,7 @@
     <ProductName>Asteroid Arena</ProductName>
     <PublisherName>Shane Feek</PublisherName>
     <ApplicationRevision>0</ApplicationRevision>
-    <ApplicationVersion>1.2.5.0</ApplicationVersion>
+    <ApplicationVersion>1.2.6.0</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
@@ -71,6 +71,9 @@
   <PropertyGroup>
     <ApplicationIcon>asteroid.ico</ApplicationIcon>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="PresentationCore" />
     <Reference Include="System" />
@@ -114,6 +117,7 @@
     <EmbeddedResource Include="asteroidarena.resx">
       <DependentUpon>asteroidarena.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="app.manifest" />
     <None Include="LICENSE">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
